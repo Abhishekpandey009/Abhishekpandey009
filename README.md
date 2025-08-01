@@ -32,13 +32,13 @@ Welcome to my GitHub profile! I'm currently pursuing a B.Tech in Computer Scienc
 
 ## 📌 Featured Projects
 
-### [YourHR - Resume Submission App]
+### [YourHR - Resume Submission App](https://github.com/Abhishekpandey009/YourHr)
 > A full-stack application to collect and manage resumes for hiring using Node.js, React, MongoDB, and Render.
 
-### [SafarSathi - Ride Share Optimization Platform]
+### [SafarSathi - Ride Share Optimization Platform](https://github.com/Abhishekpandey009/SaferSathi)
 > A concept-based project that facilitates cost-effective ride-sharing in India.
 
-### [Expense Tracker App]
+### [Expense Tracker App](https://github.com/Abhishekpandey009/Ai_expense_treacker)
 > Track and manage your personal expenses with a secure and intuitive interface using JWT, MongoDB, and Express.
 
 ---
@@ -54,4 +54,4 @@ Welcome to my GitHub profile! I'm currently pursuing a B.Tech in Computer Scienc
 
 ## 🤝 Let's Connect
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-pandey-097822286) or drop me a message. I'm always open to collaborating on exciting projects and learning together.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-pandey-ds/) or drop me a message. I'm always open to collaborating on exciting projects and learning together.
