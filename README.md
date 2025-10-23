@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm currently pursuing a B.Tech in Computer Scienc
 - 🌱 I’m currently learning **DSA, Backend Development (Node.js, Express), and Cloud Hosting**
 - ⚡ I'm working on multiple personal and collaborative projects to sharpen my skills
 - 💬 Ask me about anything related to JavaScript, React, Node.js, MongoDB, or building full-stack apps
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhishek-pandey-097822286) | [Email](mailto:abhishekpandey009ap@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhishek-pandey-ds/) | [Email](mailto:rajandraprasdpandey@gmail.com)
 - ✨ Portfolio: [pandeyabhishek.me](https://pandeyabhishek.me)
 
 ---
